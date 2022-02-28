@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact narrative of the proceedings of the Parliaments fleet, against the island of Barbadoes With the maner of the reducing thereof: together with the submitting of the islands of St. Christophers, Antego, and St. Mevis, to the Commonwealth of England. Written by an eye-witnesse, Mr. T.H. from aboard the Amity, in Carlisle Bay, and sent to a friend in London, to be published for satisfaction, and printed verbatim by the same copy.</title>
+            <author>T. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94903</idno>
+            <idno type="STC">Wing T2436B</idno>
+            <idno type="STC">ESTC R215656</idno>
+            <idno type="EEBO-CITATION">99897561</idno>
+            <idno type="PROQUEST">99897561</idno>
+            <idno type="VID">135531</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135531)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2521:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact narrative of the proceedings of the Parliaments fleet, against the island of Barbadoes With the maner of the reducing thereof: together with the submitting of the islands of St. Christophers, Antego, and St. Mevis, to the Commonwealth of England. Written by an eye-witnesse, Mr. T.H. from aboard the Amity, in Carlisle Bay, and sent to a friend in London, to be published for satisfaction, and printed verbatim by the same copy.</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Harper in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Barbados --  History --  Early works to 1800.</term>
+               <term>Antigua --  History --  Early works to 1800.</term>
+               <term>Leeward Islands (West Indies) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135531:1"/>
+            <pb facs="tcp:135531:2"/>
+            <pb facs="tcp:135531:2" rendition="simple:additions"/>
+            <p>
+               <hi>A true and exact</hi> NARRATIVE Of the Proceedings of the Parliaments Fleet, againſt the Iſland OF BARBADOES.</p>
+            <p>
+               <hi>With the maner of the Reducing thereof:</hi> Together with the ſubmitting of the Iſlands of St. <hi>Chri<g ref="char:EOLhyphen"/>ſtophers, Antego,</hi> and St. <hi>Mevis,</hi> to the Common-Wealth of <hi>ENGLAND.</hi>
+            </p>
+            <p>Written by an Eye-witneſſe, Mr. <hi>T. H.</hi> from aboard the Amity, in <hi>Carliſle</hi> Bay, and ſent to a Friend in <hi>London,</hi> to be publiſhed for ſatisfaction, and printed <hi>verbatim</hi> by the ſame Copy.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Harper</hi> in Smithfield, 165<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135531:3"/>
+            <pb n="3" facs="tcp:135531:3"/>
+            <head>An exact Narrative of the reducing of the Iſland of BARBADOES, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N July 1651. the Fleet appoynted for the re<g ref="char:EOLhyphen"/>ducing of Barbadoes, under the Command of Sir <hi>George Aiſcough,</hi> ſet ſaile from Pli<g ref="char:EOLhyphen"/>mouth, <hi>viz.</hi> the Rainbow, whereof Ad<g ref="char:EOLhyphen"/>mirall Sir <hi>George Aiſcough</hi> of 52 Guns, the Amity whereof Vice Admirall <hi>Mi<g ref="char:EOLhyphen"/>chael Packe</hi> of 36 Guns, the Su<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes whereof Captaine <hi>Witheridge,</hi> the Ruth whereof Captaine <hi>Thomſon,</hi> the Maliga Marchant whereof Captaine <hi>Colin,</hi> the Brazeel Frigot whereof Captain <hi>Heath,</hi> the Encreaſe whereof Captaine <hi>Varvill</hi> with ſome Marchant men and Victuallers: this Fleet ſet ſaile from Plimouth the 27, of the month aforeſaid, and at the beginning of Auguſt fol<g ref="char:EOLhyphen"/>lowing we arrived before Lisbone, where having ſtayd three dayes, and underſtanding that Prince <hi>Rupert</hi> was not there, wee departed from thence, and on the 26. of Auguſt we arrived at the Cape Verde, where we ſtayd to refreſh 11 dayes, and in regard our beer ſtanke, we were conſtrained to throw it over board, and to fill our Caskes with water; which having done, we proceeded on a direct courſe in our voyage to Barbadoes, in which we were very long, by reaſon of the exceeding heavy ſaying of ſome of our ſhips, <hi>viz.</hi> the Bra<g ref="char:EOLhyphen"/>zeel Frigot, the Encreaſe, Ruth, and Maliga Marchant, ſo that it was the 16. of October before we arrived at the Barbadoes, early in the morning.</p>
+            <p>Being arrived as is before mentioned, Sir <hi>George Aiſcough</hi> ſent three ſhips, <hi>viz.</hi> the Amity, Surſes, and the Maliga Marchant, to take a view of Carlile Bay, the Body of the Fleet comming af<g ref="char:EOLhyphen"/>ter with what ſpeed they could into S. Auſtins Bay; having before appoynted, that if any occaſion were for a remove to our ſhips at Carlile Bay, that the Amity ſhould make a ſigne, which they ſayd they did, but it could not be ſeen by the Officer who was appoynted to watch for the ſame; however, preſently after we ſaw thoſe ſhips go into the Bay by one of the Iſland Forts, and a Shalop came from
+<pb n="4" facs="tcp:135531:4"/> them, and informed us thereof, and alſo of their being fifteen ſaile of ships and Galiots in that Bay, whereupon Sir <hi>George</hi> immediatly commanded the whole Fleet to weigh Anchor, and fayle downe to the Bay, and was met by a ſmall Boat with a flag of Truce in her, and being commanded to come on board us, they refuſed, where<g ref="char:EOLhyphen"/>upon we fetch'd them in, and in her there was the Lord <hi>Wiloughby<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Martiall, whom we detained Priſoner; but in the mean time the Shalop returning which came to us was twice ſhot at from the Fort at Nedam poynt.</p>
+            <p>Whereupon Sir <hi>George</hi> commanded the Maſter of the Rainbow to ſayle as neare the Fort as poſſible he could for depth of Water, and ſo we came within halfe Musket ſhot of the Fort, which pre<g ref="char:EOLhyphen"/>ſently gave us many ſhot. ſome of which took place in our ſhips, but the whole Fleet loſt but one man; but Sir <hi>George</hi> cauſed the Rainbow to power a whole broad ſide upon them of no leſſe then 26 great ſhot, which (being ſo neare) we beleeve was to purpoſe; alſo the reſt of our ſhips, as they paſſed by, ſhot at them many ſhot, and ſo we came all into Carlile Bay, where we found that our three ſhips (which we had before ſent thither) had ſeized on all the ſhips in the Bay, except three of the ſmalleſt, who ſaved themſelves by running a ground: thus we ſurprized 12 ſayle of ſhips and Galliots, the which were all Dutch and Hamburgers. Sir <hi>George</hi> now cauſed more men to be put aboard of every ſhip, and commanded them to be brought from under the Command of the Forts, which were four in all, <hi>viz.</hi> the Fort at Spikes Bay, the Fort at St. Auſtins Bay, the Fort at Carlile Bay, and the Fort at Nedam poynt; the next day we took another Dutch ſhip comming to Trade here, ſhe was a Veſſell of 25 pieces of Ordnance, her lading alſo was of a conſiderable value; thoſe we had before taken in the Bay, were ſome of 18. 16. 12. and 10. Guns, and ſome leſſe; the Commanders of all theſe ſhips being on board us, they had given them an empty Veſſell to carry them to Antego, they earneſtly deſiring the ſame.</p>
+            <p>After we had proceeded thus far in order to the reducing of this Iſland, and not withſtanding our tedious voyage, which was full 11. weeks, yet all our people were in health, although by reaſon of our going to Portugal held ſo ſoutherly a courſe that we did expect ſome ſickneſſe, and then at our arrivall to ſurprize ſo many Veſſels under all their Forts, with the loſſe only of one man, although we exchan<g ref="char:EOLhyphen"/>ged
+<pb n="5" facs="tcp:135531:4"/> many pieces of Cannon with them, all which we had abundant cauſe to acknowledge were the Lords tranſcendant mercies unto us.</p>
+            <p>All this while the Lord <hi>Willoughby</hi> ſo little regarded our being here, as that he with Col. <hi>Wolrond,</hi> Col. <hi>Mudiford,</hi> and other of his chiefe Officers continued feaſting of it 12 miles up in the Iſland; the cauſe of this their contempt of us, (wee heard) was becauſe that ſome Dutch men (who arrived here a little before us) had publiſhed about the Iſland, that before they came from Holland, certaine In<g ref="char:EOLhyphen"/>telligence was come thither, how that the Scotch King having row<g ref="char:EOLhyphen"/>ted the Lord Generall <hi>Cromwell</hi> in Scotland, was marched into En<g ref="char:EOLhyphen"/>gland with an Army of 40000 men, and that he was very near, or in London; and moreover, that our Fleet was ran away from England, to ſeek for ſhelter in another place: and for the better confirmation of it, they brought with them ſeverall printed Duch Diurnals, all relating the ſame matter.</p>
+            <p>But now the Lord <hi>Willoughby</hi> hearing that his Martiall was taken by us, firſt ſent a Meſſage unto Captaine <hi>Packe,</hi> thereby deſiring the ſpeedy releaſe of his ſayd Martiall but Captain <hi>Pack</hi> returned An<g ref="char:EOLhyphen"/>ſwer, that Sir <hi>George Aiſcough</hi> had the Command of the Fleet, with<g ref="char:EOLhyphen"/>out whoſe Order his Lordſhips Martiall could not be releaſed.</p>
+            <p>Whereupon his Lordſhip preſently ſent a Letter to Sir <hi>George,</hi> therein ſignifying, that he having underſtood from Capt. <hi>Pack</hi> that his Martiall detain'd, could not be releaſed without his Order, he therefore deſired that his ſayd Martiall might forthwith be releaſed, and returned unto him with his Trumpeter who brought his Lord<g ref="char:EOLhyphen"/>ſhips Letter; but Sir <hi>George</hi> returned this for Anſwer, that his Mar<g ref="char:EOLhyphen"/>tiall being taken without his Lordſhips Paſſe, he therefore deſired to be excuſed, if at preſent he did not ſatisfie his Lordſhips requeſt in that particular.</p>
+            <p>Shortly after this Sir <hi>George</hi> ſent a ſummons unto the Lord <hi>Wi<g ref="char:EOLhyphen"/>loughby</hi> to this effect, that the Iſland of Barbadoes being a Colony and Plantation, ſettled at the coſt, and planted by the people and Parliament of England, and ought therefore to be ſubject to ſuch Lawes, Orders, and Regulations as are, and ſhall be made by the Parliament of England; and whereas many Acts of Rebellion had been committed among them, ſetting up themſelves oppoſite to, and diſtinct from the State and Common wealth of England, as was mentioned by an Act of Parl. bearing date Sept. 1650. paſſed to that purpoſe.</p>
+            <pb n="6" facs="tcp:135531:5"/>
+            <p>And that the Parliament of the Common wealth of England, the ſupream Authority of that Nation, having taken the defection of that Iſland from their due obedience into their conſideration, had armed and ſet forth a greet Fleet of Ships under his Command to endeavor (by the bleſſing of God) the reducing of that Iſland; and being ſafe<g ref="char:EOLhyphen"/>ly arrived there to prevent the ruine and deſtruction of the Iſland, by ſuch acts of hoſtility wherewith he was ſufficiently able to annoy them: he did therefore think fit to ſend unto his Lordship this ſum<g ref="char:EOLhyphen"/>mons to deliver up to him the ſaid Iſland of Barbadoes, with all the Strengths, Fortifications, Ports, and places thereof, for the uſe of the Parliament of England. The Lord <hi>Willoughby</hi> having received this ſummons, returned a peremtory anſwer, to this effect.</p>
+            <p>That upon the arrivall of Sir <hi>George</hi> his Meſſenger, he rather ex<g ref="char:EOLhyphen"/>pected ſome overture about our making reparation for thoſe acts of hoſtility committed by us, upon thoſe ships in the Bay, and the per<g ref="char:EOLhyphen"/>ſon of his Martiall, then ſuch an unreaſonable demand, as in his eſti<g ref="char:EOLhyphen"/>mation Sir <hi>George</hi> his ſummons was: and his Lordship returned Anſwer, briefly thus: That he acknowledg'd no Authority over Engliſh men, but the King; for whom, he ſayd, he was reſolved to defend and keep the Iſland, unto the utmoſt of his ſtrength and po<g ref="char:EOLhyphen"/>wer; all which he aſſured us was his firme reſolution; withall di<g ref="char:EOLhyphen"/>recting it to, on board His Majeſties ſhip the Rainbow.</p>
+            <p>Sir <hi>George</hi> finding now that the way of ſummons would produce no effect, and not being then in capacity to attempt any thing on ſhore; he reſolved to hinder them from having any Trading at ſea, and alſo to alarum them conſtantly, from place to place about the Iſland, thereby to hinder them from planting and managing their affaires in the Iſland; it being conceived that this way might prove moſt conducible and effectuall to bring them to their due obedience. And to the end no rationall opportunity might be left unaſſay'd by us, whereby we might make this, then ſtubborn Iſland, know their obedience to their Lawfull Superiors, it was reſolved that a Declaration ſhould be drawn up and ſigned by the Parliaments Commiſſioners, on board the Fleet, and ſent it unto the Iſlanders, the which Declaration was to this effect.</p>
+            <p>That they the Commiſſioners thought it not amiſſe to ſend unto them the Gentlemen, Inhabitants, and free people of the Iſland of Barbadoes, the Copy of a Summons ſent unto the Lord <hi>Willoughby,</hi>
+               <pb n="7" facs="tcp:135531:5"/> upon our arrivall before this Iſland; from whom they having recei<g ref="char:EOLhyphen"/>ved no ſatisfactory Anſwer, and being tender of the good and wel<g ref="char:EOLhyphen"/>fare of the Iſland, and being not willing to omit all amicable and friendly wayes to reduce it to its due obedience, before they procee<g ref="char:EOLhyphen"/>ded to acts of hoſtility; did think fit, to ſend the ſame or ſayd ſum<g ref="char:EOLhyphen"/>mons unto them, <hi>viz</hi> that the Iſland being a Plantation and Colo<g ref="char:EOLhyphen"/>ny which ought to be ſubordinate to, and depending upon the Com<g ref="char:EOLhyphen"/>mon wealth of England; and had ever ſince the planting thereof been, and ought to be, ſubject to ſuch Lawes, Orders, and Regula<g ref="char:EOLhyphen"/>tions, as were or ſhould be made, by, and derived from, the Parlia<g ref="char:EOLhyphen"/>ment of England: and whereas divers acts of Rebellion had beene committed by ſome perſons amongſt them, ſetting up themſelves in oppoſition unto and diſtinct from the State and Common wealth of England; the Parliament of England, the ſupream Authority of that Nation, having taken into their conſideration the defection of the Iſland, from their due obedience, and reſenting the burthens and oppreſted eſtate the people of the Iſland then lay under, by the preſent prevailing power over them: and they being ſtudious to promote the peace and welfare of the Iſland, under their power and protection, had not ſpared the expence of a great ſum of Treaſure, to arme and ſet forth a great Fleet of ſhips, though at a great diſtance of place, and having appoynted themſelves as Commiſſioners, to endeavour by the bleſſing of God the reducing of the Iſland, and to ſettle the peace and ſafety thereof, and to eſtabliſh them in their wonted priviledges and immunities, as might conduce to the well being, and flouriſhing ſtate of the Iſland.</p>
+            <p>And that they being by the bleſſing of God in ſafety arrived here, had as much as in them lay, endeavoured to prevent the ruine and deſtruction of the Iſland, by forbearing ſuch acts of hoſtility, by which we were ſufficiently able to annoy them; not doubting but ſeeing their owne liberty, and ſafety both of their perſons and e<g ref="char:EOLhyphen"/>ſtates; lay at ſtake, by their complying with ſuch as were, or ſhould continue to be theirs and the enemies of the Common-wealth of En<g ref="char:EOLhyphen"/>gland then amongſt them; but if they would ſo do, it would con<g ref="char:EOLhyphen"/>ſtraine us to uſe ſuch hoſtile wayes to reduce the Iſland, as by which their long labour'd for eſtates, and in joyments would be endange<g ref="char:EOLhyphen"/>red; but rather that they would lay hold on this opportunity, to regaine their freedome and wonted priviledges, and not raſhly en<g ref="char:EOLhyphen"/>gage
+<pb n="8" facs="tcp:135531:6"/> themſelves in a quarrell againſt the Common wealth of Eng<g ref="char:EOLhyphen"/>land; and at length inſtead of reaping the benefit and fruit of their many years labour and induſtry in this ſo hopefull and flouriſhing an Iſland, make it become the ſeat of War, the ſad events and conſe<g ref="char:EOLhyphen"/>quences thereof in the Iſland, if God prevented not, they would be (when too late) ſufficiently ſenſible of, to the ruine of themſelves and their poſterities; whatever the ſpecious pretences of any a<g ref="char:EOLhyphen"/>mong them were, as if they minded the good and welfare of the I<g ref="char:EOLhyphen"/>ſland, and that they could not be ignorant, but they were altogether unable to give them protection or liberty of freedome, without which the Iſland could no way ſubſiſt, but in their due obedience to the Common Wealth of England, whoſe Authority God hath ſea<g ref="char:EOLhyphen"/>led, to the aſtoniſhment of their Neighbor Nations, having won<g ref="char:EOLhyphen"/>derfully appeared for them in their Armies by Land, and Navies by Sea, againſt their Enemies in England, Ireland, and Scotland, the two former whereof, being by the bleſſing of God, on the unwea<g ref="char:EOLhyphen"/>ried endeavours of the Parliament, with the expence of much bloud and treaſure, ſetled in their long deſired reſt and Peace, from the bon<g ref="char:EOLhyphen"/>dage and ſervitude they were ſo long held under, by Tyrannicall Kingly power, and government: and are become a Republick, a Free State: and that the foundation of War having been by the ſame Enemy layd and carried on in Scotland, God hath there alſo won<g ref="char:EOLhyphen"/>derfully appeared for us, and brought that War to a narrow compaſs, if not ere then to a period, the power of God being ſo eminently ſeen in our Armies, as that the Enemy have not been able to ſtand before them. Theſe things the Commiſſioners layd before them, if they pleaſed to take them into conſideration, to prevent the effuſion of bloud, and a devaſtation of their eſtates injoyments, which ine<g ref="char:EOLhyphen"/>vitably would follow their contempt of timely offers of peace and mercy: and that wherever the intereſt of the Commonwealth of England lyeth, be it at never ſo great a diſtance, they would not be ſoon wearied to lay out that power God hath put into their hands, to reduce ſuch to their obedience, as ſhall obſtinately ſtand out; but that they rather hoped that the Lord, who is the ſearcher of hearts, and knew the bottome of their deſignes, to be no other but to ſettle the Iſland in peace and happineſſe under that Government, who is both willing and able to protect them againſt all oppoſers, and that they hoped the Lord would ſo incline their hearts, that from thence<g ref="char:EOLhyphen"/>forth
+<pb n="9" facs="tcp:135531:6"/> they would be able to judge who were their reall friends, and decline giving their aſſiſtance to thoſe evil affected perſons, as ſhould perſiſt in their rebellion, to involve them altogether in miſery and deſtruction; but rather uſe their beſt endeavours to ſuppreſs them; and in their actings of this kind, they aſſured them that they might rely upon the diligent aſſiſtance of the Fleet; and for the better ef<g ref="char:EOLhyphen"/>fecting of thoſe ends, they deſired to hold frequent intelligence with them, and for their further incouragement, they did aſſure them in<g ref="char:EOLhyphen"/>demnity to all ſuch as ſhould for the future decline aſſiſting the ene<g ref="char:EOLhyphen"/>mies of the Common wealth of England, then among them, and endeavour to promote the reducement of the Iſland, to their obedi<g ref="char:EOLhyphen"/>ence under their government and protection.</p>
+            <p>This Declaration of the Commiſſioners being publiſhed about the Iſland, tooke ſuch impreſſion upon the people of the Iſland, that in all probability the Iſland had been ours without any further hoſti<g ref="char:EOLhyphen"/>lity, had they not been over-awed and kept under by the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby,</hi> and his Complices; ſo that they durſt not appear for us o<g ref="char:EOLhyphen"/>penly, they being (as they had great cauſe to be) very ſenſible of the decay and want of Trade amongſt them, in regard that no ſhips durſt venture to come and traffique with them, by reaſon of our being here; as alſo their being continually kept upon watch and duty, to defend the Iſland againſt us, whereby the Iſland was much impove<g ref="char:EOLhyphen"/>riſh'd, the planting and n<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uring of the Iſland being almoſt wholly neglected upon which accompt the people would gladly have been freed, upon any rate, as afterward we found at our Landing.</p>
+            <p>But now advertiſement came unto Sir <hi>George Aiſcough,</hi> how that the Governour of S. <hi>Chriſtophers</hi> was drowned, and that there was a conteſt between two perſons in that Iſland for the Government thereof. Sir <hi>George</hi> not knowing at preſent how their affections ſtood, in reference to the Common wealth of England, reſolved with the Commiſſioners of Parliament to ſend a Declaration unto them, to this effect:</p>
+            <p>That they being informed the Governour of that Iſland was car<g ref="char:EOLhyphen"/>ried away by a floud, and that there was a conteſt between two per<g ref="char:EOLhyphen"/>ſons among them, for the Goverment of the Iſland, and they not knowing either of their, or the Iſland affections to the Parliament of England; did therefore require them ſpeedily to give an accompt unto them, how the affairs of the Iſland ſtood, in reference to their
+<pb n="8" facs="tcp:135531:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:135531:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:135531:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:135531:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:135531:9"/> obedience to the Common wealth of England; and not to chooſe a Governour, other then ſuch as they ſhould appoynt: with this far<g ref="char:EOLhyphen"/>ther intimation, that in caſe they did otherwiſe, ſuch courſe ſhould ſpeeddy be taken with them, as might make them ſenſible of their defection.</p>
+            <p>We having now been before this Iſland, from the 16 of October 1651 unto the 10 of November following, the greateſt part of the which time we ſpent in coaſting, from place to place, about the I<g ref="char:EOLhyphen"/>ſland, thereby to keep them in alarums in all parts of the Iſland, ho<g ref="char:EOLhyphen"/>ping that way would conduce to the ſpeedy rendition of it; alſo within compaſſe of the ſaid time Sir <hi>George Aiſcough</hi> ſent a ſecond, and a third ſummons unto the Lord <hi>Willoughby,</hi> the which proving ineffectuall, it was reſolved at a Counſell of War, held on board the Rainbow to attempt ſomething aſhore, at a place called the Spikes Bay; the which we were now the better able to doe, by the arrivall of another Fleet of Merchants, and ſome Men of War from England: and to the end aforeſaid, a Regiment was formed out of our ſhips, which conſiſted of 600. men, whereof 200. were Scots, being ſome of thoſe taken at the defeat at Worceſter, and brought hither in the Merchants ſhips aforeſaid.</p>
+            <p>The Enemy having notice of our deſigne, four houres before our landing, they had nine Companies afoot, and three Troopes of Horſe, to oppoſe our landing at that place; and our Boats being ready to ſet the men on ſhoar forthwith ſtood in for the Spikes bay; and having ſet the men on ſhoar, the Enemy preſently gave a very reſolute Charge upon them: but no ſooner had we embraced their onſet, but we immediately fell in among them, and after a ſhort, but hot diſpute, we routed their whole Brigade, their Comman<g ref="char:EOLhyphen"/>ders like perſidious Cowards ran away, and left the Foot ingaged; who alſo retreated to their Fort Royal: the which our men preſent<g ref="char:EOLhyphen"/>ly ſtormed, with the loſſe of nine men, and ſome few hurt, as Col. <hi>Morris,</hi> who commanded our men; his Major, and ſome others; the ſaid Col. <hi>Morris</hi> did behave himſelfe very gallantly, both at this place, and alſo before at the reducing of the Iſle of Scilly: the which we performed, with the aſſiſtance of Generall <hi>Blake,</hi> in our Voyage hither: we killed about 50. of the Enemy, and tooke about 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. Priſoners, 4 Peeces of Ordnance, and razed downe the Fort, and burnt many houſes, the place not being tenable.</p>
+            <pb n="11" facs="tcp:135531:9"/>
+            <p>Sir <hi>George</hi> againe ſent a Trumpeter, with another Summons to the Lord <hi>Willoughby,</hi> the which produced a Treaty, and Hoſtages be<g ref="char:EOLhyphen"/>ing given, Articles were concluded on, <hi>viz.</hi> that the Iſlands of Bar<g ref="char:EOLhyphen"/>badoes, St. Chriſtophers, Antego, and the Mevis, ſhould be ſurren<g ref="char:EOLhyphen"/>dred to the obedience of the Common-wealth of England: that the Lord <hi>Willoughby,</hi> Col. <hi>Wolrond,</hi> Col. <hi>Mudiford,</hi> and others of their Party ſhould have protection for the enjoyment of their Eſtates, either in England or elſewhere: and alſo be pardoned and indem<g ref="char:EOLhyphen"/>nified for all paſt by Actions, done or committed by any of them: that the Inhabitants of the ſeverall Iſlands ſhould be protected from the fury of the ſword, and to enjoy and live peaceably in their Ha<g ref="char:EOLhyphen"/>bitations; acting nothing prejudiciall to the Government which ſhould be eſtabliſhed over them, by the Parliament of the Com<g ref="char:EOLhyphen"/>mon-wealth of England.</p>
+            <p>And that Col. <hi>James Drax,</hi> Col. <hi>Lewis Morris,</hi> Serjeant Major <hi>Hilliard,</hi> Captain <hi>Gregory,</hi> and all others, who had been baniſhed the Iſland, and their Eſtates ſequeſtred for their good affection to the Common-wealth of England, ſhould be inveſted in all their E<g ref="char:EOLhyphen"/>ſtates; notwithſtanding the former Confiſcation thereof; and that reſtitution ſhould be made unto them for all damages and loſſes which they had ſuſtained.</p>
+            <p>But now the Inhabitants of the Iſlands of St. Chriſtophers, Ante<g ref="char:EOLhyphen"/>go, and St. Mevis, hearing of the rendition of Barbadoes to us, did all of them immediately ſend unto us, aſſuring us that they would chearfully ſubmit to the Parliament of the Common-wealth of Eng<g ref="char:EOLhyphen"/>land; and that they would be ſubject only to ſuch Lawes, Orders, and Regulations, as the Parliament ſhould pleaſe to impoſe upon them: Alſo they deſired us to appoynt in the mean time ſuch Go<g ref="char:EOLhyphen"/>vernors over them, as were of good integrity, and affection to the Parliament of the Common-wealth of England.</p>
+            <p>Thus were all theſe remote Iſlands reduced to the obedience of the Common-wealth of England, from which they revolted in the year, 1650. and proclaimed <hi>Charles Stewart,</hi> King over them, and did accept of ſuch Governors as he appoynted over them <hi>viz. Fran<g ref="char:EOLhyphen"/>cis</hi> Lord <hi>Willoughby</hi> of Parham, Governor of Barbadoes, who land<g ref="char:EOLhyphen"/>ed there in April. 1650. and with the aſſiſtance of Col. <hi>Wolrord,</hi> and Col. <hi>Mudiford,</hi> and ſome other evill affected perſons, he outed Ma<g ref="char:EOLhyphen"/>jor <hi>Philip Bell,</hi> who was then Governour for the Parliament of
+<pb n="12" facs="tcp:135531:10" rendition="simple:additions"/> England: and alſo baniſhed all thoſe who would not joyn with them in their pernicious wayes, or take the oath which the ſaid Lord <hi>Willoughby</hi> and his Aſſociats had prepared to adminiſter, to the In<g ref="char:EOLhyphen"/>habitants of the Iſland: the which they compelled every man in the Iſland to take, upon pain of baniſhing their Perſons, and confiſcating the Eſtates of all ſuch as ſhould refuſe to ſubſcribe thereunto: but notwithſtanding all this their ſharp Rhethorick and violent dealing, yet ſeveral conſcientious perſons of the beſt repute &amp; quality in the Iſland, did utterly refuſe either to joyn with them, or take the Oath aforeſayd, who were therefore baniſhed the Iſland, and their Eſtates ſequeſtred wholly, both reall and perſonall; the chiefe of them who were thus proceeded againſt, were Lievtenant Colonel <hi>James Drax,</hi> Lievtenant Colonel <hi>Lewis Morris,</hi> Serjeant Major <hi>Hiliard,</hi> Captaine <hi>Gregory</hi> with many others, whoſe names for brevity ſake ſhall be omitted: alſo the Governor appointed at the ſame time of Antego, was one <hi>Poynz,</hi> formerly known in England by the name of Generall <hi>Poynz;</hi> thoſe alſo who were appointed Governors of the other Iſlands being of the ſame Royall Stamp, were no whit be<g ref="char:EOLhyphen"/>hind the former in oppreſſing and tyrannizing over thoſe people, from all which they were happily delivered by the bleſſing of God upon the indeavours of the Parliaments Fleet, Commanded by the worthy and right valiant Sea Commander, Sir <hi>George Aiſcough.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
